@@ -1,6 +1,9 @@
 # profile3
 # live site here: https://marksirany.github.io/profile3/
 
+# screenshot
+<a href="screen.png" >
+
 # Unit 08 Project 1 Homework: Professional Materials
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
@@ -36,7 +39,7 @@ If you are opting out of career services, this is *still a required assignment*.
 3. [Updated Resume](#updated-resume)
 4. [Updated LinkedIn](#updated-linkedin)
 
-### Updated Portfolio
+<!-- ### Updated Portfolio
 
 Your updated site should have the following content:
 
@@ -110,4 +113,4 @@ Update your LinkedIn Profile with a strong bio statement, a professional photo, 
 
 
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. -->
