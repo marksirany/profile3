@@ -2,7 +2,7 @@
 # live site here: https://marksirany.github.io/profile3/
 
 # screenshot
-<a href="screen.png" >
+![userinput pic](./screen.png)
 
 # what i used
 I purchased a template from: 	bootstrapmade.com -- DevFolio Bootstrap Theme
