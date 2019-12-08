@@ -2,7 +2,7 @@
 # live site here: https://marksirany.github.io/profile3/
 
 # screenshot
-<a href="screen.png" >
+![userinput pic](./screen.png)
 
 # Unit 08 Project 1 Homework: Professional Materials
 
